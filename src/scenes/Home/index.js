@@ -120,7 +120,7 @@ const Styles = StyleSheet.create({
     position: 'absolute',
     margin: 16,
     right: 0,
-    bottom: 100,
+    bottom: 0,
     zIndex: 999,
     display: 'flex',
     justifyContent: 'center',

@@ -28,7 +28,7 @@ const globalStyles = {
     flexDirection: 'column',
     marginHorizontal: 15,
     height: fullHeight,
-    // marginTop: 50,
+    marginTop: 50,
   },
   buttonText: {
     fontFamily: font.bold,
